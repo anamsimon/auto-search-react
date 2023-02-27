@@ -30,6 +30,7 @@ ul li{
 
 
 .flex-container {
+  flex-wrap: wrap;
   display: flex;
   flex-direction: row;
   justify-content: center;
