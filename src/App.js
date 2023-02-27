@@ -52,7 +52,7 @@ function App() {
     let carMakes = [
       ...new Set(
         data.map((car) => {
-          if (carMakeModel[car.manufacturer] === null) {
+          if (!carMakeModel.hasOwnProperty(car.manufacturer)) {
             carMakeModel[car.manufacturer] = new Set();
           }
           if (car.model !== "") 
