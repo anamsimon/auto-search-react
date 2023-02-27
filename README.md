@@ -1,6 +1,6 @@
-# Objective
+# Auto search react with component
 
-Build React component(s) that mimics Autos' search page. Use the data from this dataset published in Kaggle: https://www.kaggle.com/austinreese/craigslist-carstrucks-data. Subset of this dataset or use a different cars dataset can be used, as long as it has the required features. JSON store the data (or any other convenient way) can be used. Once the user selects the options, the component should query the data and display the results.
+Build React component(s) that Auto search page. Use the data from this dataset published in Kaggle: https://www.kaggle.com/austinreese/craigslist-carstrucks-data. Subset of this dataset or use a different cars dataset can be used, as long as it has the required features. JSON store the data (or any other convenient way) can be used. Once the user selects the options, the component should query the data and display the results.
 
 ## Available Scripts
 
